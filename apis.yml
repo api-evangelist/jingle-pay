@@ -52,7 +52,7 @@ tags:
 - Remittances
 - Money Transfer
 - Digital Wallet
-- Financial-Services
+- Financial Services
 - MENA
 tags_raw:
 - Company
@@ -63,6 +63,7 @@ tags_raw:
 - Digital Wallet
 - Financial Services
 - MENA
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
